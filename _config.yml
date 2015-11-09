@@ -22,7 +22,7 @@ color:
     - '#ffc20e'
     - '#ffffff'
   brandStrength: 1
-  lightness: 0.9522940586321056
-  saturation: 0.5734129254706204
-  rhythmicContrast: 0.9900748485233635
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
