@@ -2,6 +2,7 @@ name: GsAL
 favicon: null
 layout_spectrum: 0.76749
 typography_spectrum: 0.24128
+title: University of San Francisco Geospatial Analysis Lab
 cta:
   domain: null
   bucket: null
