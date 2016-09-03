@@ -1,4 +1,3 @@
-layout_spectrum: 0.9308009236119688
 typography_spectrum: 0.26437721168622375
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9308009236119688
 analytics:
   google: null
   facebook: null
@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: GsAL Info
+    url: 'http://usfca.edu/gsal'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50652386-3641-4b6d-8a7d-f1f84f46f978.png
 title: University of San Francisco Geospatial Analysis Lab
