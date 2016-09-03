@@ -1,20 +1,4 @@
-name: GsAL
-favicon: null
-layout_spectrum: 0.76749
 typography_spectrum: 0.24128
-title: University of San Francisco Geospatial Analysis Lab
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#005a36'
@@ -26,4 +10,26 @@ color:
   lightness: 0.5
   saturation: 0.6875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.76749
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: David Saah
+  email: dssaah@usfca.edu
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed14f4d4-734b-4b01-a8d8-13d905a61fef.png
+name: GsAL
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50652386-3641-4b6d-8a7d-f1f84f46f978.png
+title: University of San Francisco Geospatial Analysis Lab
 purpose: []
